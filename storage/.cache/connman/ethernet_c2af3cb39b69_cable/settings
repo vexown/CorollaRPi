@@ -1,0 +1,8 @@
+[ethernet_c2af3cb39b69_cable]
+Name=Wired
+AutoConnect=true
+Modified=2023-02-16T19:17:31Z
+IPv4.method=dhcp
+IPv4.DHCP.LastAddress=192.168.56.100
+IPv6.method=off
+IPv6.privacy=prefered
