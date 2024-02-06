@@ -6,6 +6,8 @@ import threading
 
 def start_camera_preview():
 	with picamera.PiCamera() as camera:
+		camera.rotation = 270
+		camera.hflip = True
 		camera.start_preview()
 		camera.preview.fullscreen = True
 		camera.preview.alpha = 255
