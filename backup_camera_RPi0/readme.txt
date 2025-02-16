@@ -1,1 +1,0 @@
-This is a seperate system running on RPi0 that will share the screen with the multimedia LibreELEC RPi5 system. Using a HDMI switch you can switch the view on the screen between entertainment and the backup camera in the car. The camera is a PiHut ZeroCam with a fish lense.
